@@ -33,3 +33,5 @@ flutter:
         fileName: restart_web.dart
       linux:
         pluginClass: RestartAppPlugin
+      windows:
+        pluginClass: RestartAppPlugin
